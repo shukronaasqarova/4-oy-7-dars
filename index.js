@@ -125,18 +125,17 @@
 
 // 5 - masala;
 
-// function name() {
+// function son(params) {
 //   let a = 20;
 //   let i = 1;
-//   let sum = 0;
 //   while (i <= a) {
 //     if (i % 2 == 0){
 //         console.log(i);
-//         i += 2;
 //     }
+//     i++;
 //   }
 // }
-// name();
+// son();
 
 // 6 - masala;
 
